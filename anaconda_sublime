@@ -11,5 +11,5 @@
     "anaconda_linter_mark_style": "none",
     "display_signatures": false,
     "disable_anaconda_completion": true,
-    "python_interpreter": "/usr/local/bin/python3"
+    "python_interpreter": "/Users/dsalzedo/Documents/Python/v_env/py/bin/python3"
 }
