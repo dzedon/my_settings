@@ -1,0 +1,41 @@
+{
+    "workbench.iconTheme": "ayu",
+    "editor.fontWeight": "50",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Monaco",
+    "debug.console.fontFamily": "Monaco",
+    "terminal.integrated.fontWeight": "500",
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": true,
+    "[plaintext]": {
+        "editor.quickSuggestions": false
+    },
+    "editor.quickSuggestionsDelay": 100,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "workbench.settings.openDefaultSettings": true,
+    //"workbench.settings.editor": "json",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Horizon Default",
+    "python.defaultInterpreterPath": "/Users/daniel.salzedo/.venv/pydefault/bin/python3",
+    "workbench.settings.useSplitJSON": true,
+    "editor.matchBrackets": false,
+    "editor.accessibilitySupport": "off",
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "diffEditor.renderSideBySide": false,
+    "[python]": {
+        "editor.rulers": [
+            79,
+            99,
+            119
+        ]
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 1,
+    "json.schemas": []
+}
